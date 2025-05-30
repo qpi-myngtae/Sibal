@@ -1,1 +1,1 @@
-# Sibal
+# ECG Wave Classification Algorithm
